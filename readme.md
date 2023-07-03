@@ -1,0 +1,1 @@
+Bot that tweets out best sale by percentage in the Amazon electronics category. When tweeted @ with a "search term", replies with the best sale using that search term. Provides link, price drop and percentage, and image. All scraping performed on camelcamelcamel.com and amazon.com
